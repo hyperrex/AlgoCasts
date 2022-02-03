@@ -49,3 +49,4 @@ module.exports = anagrams;
 //
 //   return charMap;
 // }
+// Let's redo this!
